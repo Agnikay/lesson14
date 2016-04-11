@@ -1,1 +1,13 @@
 D:\MC\Lectures\14\Lesson_Code\Lesson_Code\Lesson_Code\bin\Debug\Lesson_Code.exe.config
+D:\MC\Lectures\14\Lesson_Code\Lesson_Code\Lesson_Code\bin\Debug\Lesson_Code.exe
+D:\MC\Lectures\14\Lesson_Code\Lesson_Code\Lesson_Code\bin\Debug\Lesson_Code.pdb
+D:\MC\Lectures\14\Lesson_Code\Lesson_Code\Lesson_Code\bin\Debug\OurFirstCommon.dll
+D:\MC\Lectures\14\Lesson_Code\Lesson_Code\Lesson_Code\bin\Debug\OurFirstCommon.pdb
+D:\MC\Lectures\14\Lesson_Code\Lesson_Code\Lesson_Code\obj\Debug\Lesson_Code.csprojResolveAssemblyReference.cache
+D:\MC\Lectures\14\Lesson_Code\Lesson_Code\Lesson_Code\obj\Debug\Lesson_Code.Properties.Resources.resources
+D:\MC\Lectures\14\Lesson_Code\Lesson_Code\Lesson_Code\obj\Debug\Lesson_Code.csproj.GenerateResource.Cache
+D:\MC\Lectures\14\Lesson_Code\Lesson_Code\Lesson_Code\obj\Debug\Lesson_Code.exe
+D:\MC\Lectures\14\Lesson_Code\Lesson_Code\Lesson_Code\obj\Debug\Lesson_Code.pdb
+D:\MC\Lectures\14\Lesson_Code\Lesson_Code\Lesson_Code\bin\Debug\WhiteFilter.dll
+D:\MC\Lectures\14\Lesson_Code\Lesson_Code\Lesson_Code\bin\Debug\WhiteFilter.pdb
+D:\MC\Lectures\14\Lesson_Code\Lesson_Code\Lesson_Code\obj\Debug\Lesson_Code.Form1.resources

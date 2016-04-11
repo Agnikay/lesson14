@@ -1,0 +1,7 @@
+D:\MC\Lectures\14\Lesson_Code\Lesson_Code\WhiteFilter\bin\Debug\WhiteFilter.dll
+D:\MC\Lectures\14\Lesson_Code\Lesson_Code\WhiteFilter\bin\Debug\WhiteFilter.pdb
+D:\MC\Lectures\14\Lesson_Code\Lesson_Code\WhiteFilter\obj\Debug\WhiteFilter.csprojResolveAssemblyReference.cache
+D:\MC\Lectures\14\Lesson_Code\Lesson_Code\WhiteFilter\obj\Debug\WhiteFilter.dll
+D:\MC\Lectures\14\Lesson_Code\Lesson_Code\WhiteFilter\obj\Debug\WhiteFilter.pdb
+D:\MC\Lectures\14\Lesson_Code\Lesson_Code\WhiteFilter\bin\Debug\OurFirstCommon.dll
+D:\MC\Lectures\14\Lesson_Code\Lesson_Code\WhiteFilter\bin\Debug\OurFirstCommon.pdb

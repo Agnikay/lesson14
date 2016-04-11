@@ -1,0 +1,4 @@
+D:\MC\Lectures\14\Lesson_Code\Lesson_Code\OurFirstCommon\bin\Debug\OurFirstCommon.dll
+D:\MC\Lectures\14\Lesson_Code\Lesson_Code\OurFirstCommon\bin\Debug\OurFirstCommon.pdb
+D:\MC\Lectures\14\Lesson_Code\Lesson_Code\OurFirstCommon\obj\Debug\OurFirstCommon.dll
+D:\MC\Lectures\14\Lesson_Code\Lesson_Code\OurFirstCommon\obj\Debug\OurFirstCommon.pdb
